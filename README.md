@@ -1,5 +1,5 @@
 
-# Auto-Detection-of-language-from-Video-and-Transcription-of-Data
+# Auto-Detection-of-language-from-Video-and-Transcription
 Automatically extract, detect language, and transcribe audio from video files
 
 
